@@ -1,0 +1,1 @@
+# sidecar-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 sidecar.py\n```\n
